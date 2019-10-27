@@ -50,3 +50,15 @@ The Realtor360 dataset currently couldn’t be made publicly available due to so
 [pretrained models]: <https://drive.google.com/file/d/1AJ-RsVW8XTvlaJ1hzGIMu4L2aDiEWc4z/view?usp=sharing>
 [Arxiv]: <https://arxiv.org/abs/1811.11977>
 [Project]: <https://cgv.cs.nthu.edu.tw/projects/dulanet>
+
+## Citation
+If you use this code for your research, please cite this paper
+```
+@inproceedings{ Yang:2019:DuLa-Net,
+author    = {Yang, Shang-Ta and Wang, Fu-En and Peng, Chi-Han and Wonka, Peter and Sun, Min and Chu, Hung-Kuo},
+title     = {DuLa-Net: {A} Dual-Projection Network for Estimating Room Layouts From a Single {RGB} Panorama},
+booktitle = {{IEEE} Conference on Computer Vision and Pattern Recognition, {CVPR} 2019},
+pages     = {3363--3372},
+year      = {2019}
+} 
+```
